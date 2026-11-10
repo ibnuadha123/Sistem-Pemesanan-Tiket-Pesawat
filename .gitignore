@@ -1,0 +1,9 @@
+# Executable hasil compile
+*.exe
+*.out
+
+# Editor / OS
+.vscode/
+.vs/
+.DS_Store
+Thumbs.db
