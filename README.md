@@ -7,7 +7,7 @@ Kerangka awal proyek tugas kelompok Sorting, Searching, dan Graph menggunakan C+
 | Anggota | File yang dikerjakan | Tanggung jawab |
 | Ezer | `src/ticket.cpp` | Data tiket, tampilkan tiket, Selection Sort harga dan waktu |
 | Dinda | `src/search.cpp` | Searching asal, tujuan, dan kombinasi rute |
-| Nopal | `src/validation.cpp` | Validasi ID tiket, jumlah penumpang, dan pilihan menu |
+| Naufal | `src/validation.cpp` | Validasi ID tiket, jumlah penumpang, dan pilihan menu |
 | Udin | `src/booking.cpp` | Pemesanan tiket dan perhitungan total |
 | Ibnu | `src/graph.cpp`, `src/main.cpp` | Graph, Dijkstra, dan integrasi menu akhir |
 
